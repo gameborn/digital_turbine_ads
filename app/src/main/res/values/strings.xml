@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DTProductList</string>
+    <string name="button_load_ads_text">LOAD</string>
+    <string name="button_reload_ads_text">RELOAD</string>
+    <string name="button_back_to_ad_list_text">BACK</string>
+    <string name="text_total_campaign_request">Total Campaigns Request</string>
+    <string name="text_default">Default</string>
+    <string name="text_default_rating">4.5+</string>
+    <string name="text_default_downloads">10,000+</string>
+    <string name="text_content_desc">Text Content Description</string>
+    <string name="text_ad_details_header">DETAILS</string>
+</resources>
